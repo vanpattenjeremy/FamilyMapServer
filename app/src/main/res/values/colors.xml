@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#f32231b9</color>
+    <color name="colorPrimaryDark">#000d85</color>
+    <color name="colorAccent">#1bd5d8</color>
+    <color name="colorActionBarIcons">#ffffff</color>
+    <color name="colorMaleIcon">#0f90ac</color>
+    <color name="colorFemaleIcon">#ed0a92</color>
+    <color name="colorClear">#00000000</color>
+    <color name="neutral">#747474</color>
+    <color name="colorSpouseLine">#c11111</color>
+    <color name="colorFamilyTreeLine">#34c716</color>
+    <color name="colorLifeStoryLine">#8c14a6</color>
+
+</resources>
